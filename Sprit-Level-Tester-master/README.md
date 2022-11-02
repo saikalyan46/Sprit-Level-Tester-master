@@ -60,3 +60,5 @@ A0 and BHE’ signal is used for separating even and odd banks.
 
 ## FLOW CHART
 ![image](https://user-images.githubusercontent.com/54111714/140653478-616ee6cf-d6a6-4ed2-9261-b2b29ea5ac2f.png)
+
+
